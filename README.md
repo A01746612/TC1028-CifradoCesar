@@ -6,7 +6,7 @@
 
 -  (Wikipedia https://es.wikipedia.org/wiki/Cifrado_César)
 
-  ![CifradoCesar](/home/avmejia/TEC/AGO-DIC20/TC1028/GitHub/TC1028-CifradoCesar/CifradoCesar.png)
+  ![CifradoCesar](CifradoCesar.png)
 
 
 
